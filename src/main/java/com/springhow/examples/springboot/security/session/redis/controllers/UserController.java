@@ -1,4 +1,4 @@
-package com.springhow.examples.springboot.security.rbac.controllers;
+package com.springhow.examples.springboot.security.session.redis.controllers;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.RequestMapping;

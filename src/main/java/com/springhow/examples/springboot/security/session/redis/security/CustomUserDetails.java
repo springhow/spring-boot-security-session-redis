@@ -1,4 +1,4 @@
-package com.springhow.examples.springboot.security.rbac.security;
+package com.springhow.examples.springboot.security.session.redis.security;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

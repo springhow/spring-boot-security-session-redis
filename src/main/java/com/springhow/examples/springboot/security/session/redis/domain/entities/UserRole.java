@@ -1,9 +1,8 @@
-package com.springhow.examples.springboot.security.rbac.domain.entities;
+package com.springhow.examples.springboot.security.session.redis.domain.entities;
 
 import lombok.Data;
 
 import javax.persistence.*;
-import java.util.ArrayList;
 import java.util.List;
 
 @Entity

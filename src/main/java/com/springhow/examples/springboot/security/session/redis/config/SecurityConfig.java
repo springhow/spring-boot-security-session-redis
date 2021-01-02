@@ -1,4 +1,4 @@
-package com.springhow.examples.springboot.security.rbac.config;
+package com.springhow.examples.springboot.security.session.redis.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

@@ -1,9 +1,9 @@
-package com.springhow.examples.springboot.security.rbac.security;
+package com.springhow.examples.springboot.security.session.redis.security;
 
-import com.springhow.examples.springboot.security.rbac.domain.entities.UserAccount;
-import com.springhow.examples.springboot.security.rbac.domain.entities.UserRoleToPrivilege;
-import com.springhow.examples.springboot.security.rbac.domain.entities.UserToRole;
-import com.springhow.examples.springboot.security.rbac.domain.repositories.UserAccountRepository;
+import com.springhow.examples.springboot.security.session.redis.domain.entities.UserAccount;
+import com.springhow.examples.springboot.security.session.redis.domain.entities.UserRoleToPrivilege;
+import com.springhow.examples.springboot.security.session.redis.domain.entities.UserToRole;
+import com.springhow.examples.springboot.security.session.redis.domain.repositories.UserAccountRepository;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
